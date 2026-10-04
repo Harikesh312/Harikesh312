@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm a Full-Stack Developer and Computer Science undergraduate passionate about building scalable, user centric web applications. I enjoy transforming ideas into clean, responsive, and efficient digital products while continuously improving my problem-solving skills through Data Structures & Algorithms.<br><br>🏆 Finalist & Hackathon Winner with experience in developing real world applications, admin dashboards, AI-powered platforms, and spreadsheet systems.<br><br>
 
 
